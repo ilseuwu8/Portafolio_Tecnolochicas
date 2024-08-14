@@ -1,0 +1,26 @@
+
+
+
+#proyecto-1{
+
+background-image: url('assets/google.png');
+}
+
+
+.proyecto{
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text-shadow-1 {
+    text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
+}
+
+.cuadro{ 
+  text-shadow: -2px 0px 6px rgb(231, 77, 198);
+}
+
+.titulo{
+    text-shadow: -6px 0px 6px rgb(231, 77, 198);
+}
