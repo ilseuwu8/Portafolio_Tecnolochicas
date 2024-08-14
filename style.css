@@ -6,6 +6,13 @@
 background-image: url('assets/google.png');
 }
 
+#proyecto-2{
+    background-image: url(assets/portafolio.png);
+
+}
+#proyecto-3{
+    background-image: url(assets/mi\ primera\ página.png);
+}
 
 .proyecto{
     background-size: contain;

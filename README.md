@@ -9,25 +9,17 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla), e incluy
 
 
 
-
-
-
-
-
-
-
-
-[Proyecto desplegado (https://malinali.netlify.app/)](https://malinali.netlify.app/)
+[Proyecto desplegado (https://portafolio-ilse.netlify.app/)](https://portafolio-ilse.netlify.app/)
 ## Secciones de mi sitio
-![Presentación](assets/readme/1.png)
-![Habilidades](assets/readme/2.png)
-![Proyectos](assets/readme/3.png)
-![Testimonios](assets/readme/4.png)
-![Contacto](assets/readme/5.png)
+💜[Presentación](assets/inicio.png)
+💜[Habilidades](assets/habilidades.png)
+💜[Proyectos](assets/proyectos.png)
+💜[Testimonios](assets/testimonios.png)
+
 ## Tecnologías
 * HTML
 * CSS
 * Bootstrap 
 * Javascript
 ---
-Desarrollado con  💜 por [Malinali](https://malinali.dev/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
+Desarrollado con  💜 por [Ilse Arteaga](https://www.facebook.com/ilselizeth.ferrusca) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/)
