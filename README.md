@@ -11,10 +11,10 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla), e incluy
 
 [Proyecto desplegado (https://portafolio-ilse.netlify.app/)](https://portafolio-ilse.netlify.app/)
 ## Secciones de mi sitio
-!💜[Presentación](assets/inicio.png)
-!💜[Habilidades](assets/habilidades.png)
-!💜[Proyectos](assets/proyectos.png)
-!💜[Testimonios](assets/testimonios.png)
+![Presentación](assets/inicio.png)
+![Habilidades](assets/habilidades.png)
+![Proyectos](assets/proyectos.png)
+![Testimonios](assets/testimonios.png)
 
 ## Tecnologías
 * HTML
